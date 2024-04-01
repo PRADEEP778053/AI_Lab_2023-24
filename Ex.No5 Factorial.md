@@ -1,4 +1,3 @@
-![image](https://github.com/PRADEEP778053/AI_Lab_2023-24/assets/160721712/b9bfca16-9e4c-4058-a561-2e637c42408a)
 # Ex.No: 5   Logic Programming – Factorial of number   
 ### DATE:                                                                            
 ### REGISTER NUMBER : 
